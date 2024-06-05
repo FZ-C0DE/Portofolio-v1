@@ -6,13 +6,25 @@ body {
 .jumbotron  {
 
     padding-top: 6rem ;
-    background-color: #9cc2ff;
+    background-color: #a4a4a4;
 }
 
 #projek {
-    background-color: #9cc2ff;
+    background-color: #a4a4a4;
+}
+
+#about {
+    background-color: #000000;
+}
+
+#navbar {
+    background-color: #000000;
 }
 
 section {
-    padding-top: 1rem;
+    padding-top: 1rem
+}
+
+#contact {
+    background-color: #000000;
 }
